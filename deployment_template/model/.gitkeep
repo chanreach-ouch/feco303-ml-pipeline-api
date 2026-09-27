@@ -1,0 +1,3 @@
+# Place your trained CIFAR-10 model artifact here.
+# Supported default formats: .keras or .h5 (TensorFlow/Keras)
+# PyTorch format (.pt or .pth) is also supported with code configuration in main.py.
